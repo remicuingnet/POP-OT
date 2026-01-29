@@ -1,0 +1,10 @@
+tqdm
+torch
+torchvision
+pydantic
+pillow
+numpy
+scipy
+matplotlib
+plotly
+POT #ot
